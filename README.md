@@ -18,6 +18,8 @@ Results:
 
 I tested this implementation on basic clustering data and found the iteration based variance improved performance with more iterations.
 
- 
+Orginal Data               |  50 clusters with 3 iterations
+:-------------------------:|:-------------------------:
+![](https://github.com/davidavzP/kmeans_haskell/blob/main/output_images/images/original_data.jpg) | ![](https://github.com/davidavzP/kmeans_haskell/blob/main/output_images/images/kmeans_50_var.jpg)
 
 
