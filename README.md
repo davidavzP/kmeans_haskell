@@ -18,6 +18,6 @@ Results:
 
 I tested this implementation on basic clustering data and found the iteration based variance improved performance with more iterations.
 
-![Original Data]("output_images/present/original_data.pdf") 
+ 
 
 
